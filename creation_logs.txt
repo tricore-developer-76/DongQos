@@ -1,0 +1,11 @@
+day[1] = good[ok]
+day[2] = good[ok]
+day[3] = good and starting[ok]
+day[4] = decent[ok]
+day[5] = decent and network shutoff[ok,errors:1]
+error:can't install developer tools
+day[6] = decent[ok]
+day[7] = very good[ok]
+day[8] = very good[ok]
+
+
