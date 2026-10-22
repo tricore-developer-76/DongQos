@@ -8,4 +8,5 @@ day[6] = decent[ok]
 day[7] = very good[ok]
 day[8] = very good[ok]
 day[9] = very good[ok]
-
+day[10] = very good[ok]
+day[11] = very good[ok]
