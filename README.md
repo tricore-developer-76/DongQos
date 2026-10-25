@@ -134,3 +134,5 @@ The Shift key
     • Wait until it shows the installation is finished, then click Restart computer.
 Congrats, you installed the DongQos OS successfully🎉🥳. Now you need to open up the terminal and type. 
 “getdata —processor”
+#rust
+#osdev
