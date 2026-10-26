@@ -1,16 +1,21 @@
 day[1] = good[ok]
+installing fedora
 day[2] = good[ok]
 day[3] = good and starting[ok]
 day[4] = decent[ok]
 day[5] = decent and network shutoff[ok,errors:1]
 error:can't install developer tools
 day[6] = decent[ok]
+installed development tools
 day[7] = very good[ok]
+enjoying 7 days of very good because the development tools were installed
 day[8] = very good[ok]
 day[9] = very good[ok]
 day[10] = very good[ok]
+installed webstorm and rustrover tar.gz files
 day[11] = very good[ok]
 day[12] = very good[ok]
 day[13] = very good[ok]
 day[14] = good[ok]
+day[15] = good[ok]
 
