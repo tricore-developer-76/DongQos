@@ -18,4 +18,5 @@ day[12] = very good[ok]
 day[13] = very good[ok]
 day[14] = good[ok]
 day[15] = good[ok]
+day[16] = good[ok]
 
