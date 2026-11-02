@@ -22,3 +22,7 @@ day[16] = good[ok]
 day[17] = good[ok]
 day[18] = good[ok]
 day[19] = good[ok]
+day[20] = good[ok]
+removing rustrover and other jetbrains ides with vscode 
+day[21] = good[ok]
+day[22] = good[ok]
