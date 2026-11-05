@@ -27,3 +27,5 @@ removing rustrover and other jetbrains ides with vscode
 day[21] = good[ok]
 day[22] = good[ok]
 day[23] = good[ok]
+day[24] = good[ok]
+day[25] = good[ok]
