@@ -30,4 +30,7 @@ day[23] = good[ok]
 day[24] = good[ok]
 day[25] = good[ok]
 day[26] = good[ok]
+day[27] = good[ok]
+day[28] = good[ok]
+day[29] = good[ok]
 
